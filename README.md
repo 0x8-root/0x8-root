@@ -53,7 +53,7 @@
 
 ## 📌 Избранные проекты
 
-### Lux8-console( github.com/Lux-8/Lux8-console )
+### Lux8-console( [github.com/Lux-8/Lux8-console](https://github.com/Lux-8/Lux8-console) )
 Модульная CLI-утилита на Python. Реализовано хеширование паролей с использованием PBKDF2-HMAC и соли.
 
 ### Orbit-simulation
