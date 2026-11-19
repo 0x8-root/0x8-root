@@ -93,3 +93,7 @@
 ---
 
 Командный GitHub: [Lux-8](https://github.com/Lux-8)
+---
+
+Если нужно собрать Telegram-бота, парсер или простой бэкенд на Python — пиши в Telegram: " @Snigi3 "
+
