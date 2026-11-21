@@ -54,7 +54,7 @@
 
 ## Избранные проекты
 
-###GitProfileBot
+### [GitProfileBot](https://github.com/Lux-8/GitProfileBot)
 
 Telegram-бот на Python для поиска GitHub-пользователей и получения информации об их профилях через GitHub REST API.
 
